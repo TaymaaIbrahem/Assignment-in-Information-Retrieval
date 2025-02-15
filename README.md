@@ -119,7 +119,7 @@ This project provided valuable hands-on experience with **language modeling, cla
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Assignment-in-Information-Retrieval.git
    ```
 2. Open **Google Colab** and upload the notebook.
 3. Install dependencies:
